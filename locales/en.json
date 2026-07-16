@@ -1,0 +1,355 @@
+{
+  "nav": {
+    "home": "Home",
+    "pizzaHot": "Pizza Hot",
+    "gameCity": "Game City",
+    "privateLounge": "Private Lounge",
+    "poolArea": "Pool Area",
+    "language": "Language",
+    "ourGames": "Our Games"
+  },
+    "home": {
+    "welcome": {
+      "title": "Welcome to Star City Complex",
+      "description": "Experience premium entertainment, dining, and leisure facilities all in one iconic destination"
+    },
+    "experiences": {
+      "title": "Our Experiences",
+      "subtitle": "Explore the four unique destinations that make Star City your ultimate entertainment hub",
+      "discover": "Discover unforgettable moments in every corner of our complex"
+    },
+    "cards": {
+      "pizzaHot": {
+        "title": "Pizza Hot",
+        "description": "Authentic pizzas, delicious food, and fine dining experience"
+      },
+      "gameCity": {
+        "title": "Game City",
+        "description": "Premier arcade gaming zone with latest machines and VR experiences"
+      },
+      "privateLounge": {
+        "title": "Private Lounge",
+        "description": "Exclusive premium lounge for private events and relaxation"
+      },
+      "poolArea": {
+        "title": "Pool Area",
+        "description": "Luxurious swimming and recreational complex"
+      }
+    },
+    "exploreButton": "Explore"
+  },
+  "footer": {
+    "contact": "Contact",
+    "phone": "+237 653 122 650",
+    "email": "info@starcity.com",
+    "address": "Yaounde, Cameroon",
+    "hours": "Operating Hours",
+    "hoursData": {
+      "monThu": "Monday - Thursday: 10am - 11pm",
+      "friSat": "Friday - Saturday: 10am - 1am",
+      "sun": "Sunday: 10am - 11pm"
+    },
+    "followUs": "Follow Us",
+    "copyright": "Star City Complex. All rights reserved."
+  },
+  "pizzaHot": {
+    "title": "Pizza Hot",
+    "subtitle": "Authentic Italian pizzas and fine dining",
+    "menu": "Our Menu",
+    "categories": {
+      "pizza": "Pizza",
+      "pouletsPane": "Fried Chicken",
+      "burgers": "Burgers",
+      "shawarma": "Shawarma",
+      "combo": "Combos",
+      "supplements": "Supplements",
+      "smoothies": "Smoothies",
+      "glaces": "Ice Cream",
+      "boissons": "Drinks",
+      "vinWhisky": "Wine & Whisky"
+    },
+    "menuSubtitle": "Eat in • Take Away • Delivery",
+    "orderButton": "Order",
+    "cart": "Cart",
+    "cartEmpty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "tax": "Tax",
+    "total": "Total",
+    "size": {
+      "small": "Small",
+      "medium": "Medium",
+      "large": "Large",
+      "extraLarge": "Extra Large"
+    }
+  },
+  "gameCity": {
+    "title": "Game City",
+    "subtitle": "Premier arcade and gaming zone",
+    "games": "Our Games",
+    "bookNow": "Book Now",
+    "contactUs": "Contact Us",
+    "readyToPlay": "Ready to Play?",
+    "bookingDescription": "Book your gaming session or group event today and experience the ultimate gaming adventure.",
+    "vrGames": "VR Games",
+    "vrDescription": "Step into immersive virtual reality experiences at Game City. Explore, play, and feel the future of gaming.",
+    "other": "Other",
+    "features": {
+      "latestGames": {
+        "title": "Latest Games",
+        "desc": "State-of-the-art gaming machines and consoles"
+      },
+      "tournaments": {
+        "title": "Tournaments",
+        "desc": "Weekly competitions with amazing prizes"
+      },
+      "multiplayer": {
+        "title": "Multiplayer",
+        "desc": "Team up with friends for epic gaming sessions"
+      },
+      "vr": {
+        "title": "VR Experiences",
+        "desc": "Immersive virtual reality gaming adventures"
+      },
+      "comfort": {
+        "title": "Comfort Zone",
+        "desc": "Premium seating and refreshments while you play"
+      },
+      "community": {
+        "title": "Gaming Community",
+        "desc": "Join a vibrant community of gaming enthusiasts"
+      },
+      "leaderboard": {
+        "title": "Leaderboards",
+        "desc": "Compete and climb the rankings"
+      },
+      "music": {
+        "title": "Entertainment",
+        "desc": "Live DJ sets and musical performances"
+      }
+    },
+    "games": {
+      "dance": "Dance",
+      "jurassicPark": "Jurassic Park",
+      "raizingStorm": "Raizing Storm",
+      "pumpkinParty": "Pumpkin Party",
+      "carRace": "Car Race",
+      "jungleIQ": "Jungle IQ",
+      "prizeClaw": "Prize Claw",
+      "carGame": "Car Game",
+      "crazyBasketball": "Crazy Basketball",
+      "rescue": "Rescue",
+      "airHockey": "Air Hockey",
+      "pandoraBox": "Pandora Box"
+    },
+    "ourGames": "Our Games",
+    "experienceAction": "Experience the Action",
+    "checkOutGamingSetup": "Check out our amazing gaming setup"
+  },
+  "lounge": {
+    "title": "Private Lounge",
+    "subtitle": "Sophisticated space for private events and relaxation",
+    "description": "Our exclusive lounge is designed for those seeking premium comfort and intimacy.",
+    "planYourEvent": "Plan Your Event",
+    "eventDescription": "Contact our events team to discuss your private event requirements and get a customized quote.",
+    "contactUs": "Contact Us",
+    "call": "Call: +237 653 122 650",
+    "gallery": "Gallery",
+    "elegantSpaces": "Take a look at our elegant spaces",
+    "diveIn": "Ready to Dive In?",
+    "diveDescription": "Book your gaming session or group event today.",
+    "features": {
+      "seating": {
+        "title": "Luxury Seating",
+        "desc": "Premium furniture and comfortable ambiance"
+      },
+      "beverages": {
+        "title": "Premium Beverages",
+        "desc": "Curated selection of drinks and cocktails"
+      },
+      "sound": {
+        "title": "Sound System",
+        "desc": "High-quality audio for music and events"
+      },
+      "space": {
+        "title": "Private Space",
+        "desc": "Exclusive areas for intimate gatherings"
+      },
+      "wifi": {
+        "title": "Fast WiFi",
+        "desc": "High-speed internet connectivity"
+      },
+      "lighting": {
+        "title": "Mood Lighting",
+        "desc": "Customizable ambient lighting"
+      },
+      "refreshments": {
+        "title": "Refreshments",
+        "desc": "Coffee, snacks, and light bites"
+      },
+      "valet": {
+        "title": "Valet Service",
+        "desc": "Convenient entry and parking assistance"
+      }
+    },
+    "oldFeatures": {
+      "privacy": {
+        "title": "Ultimate Privacy",
+        "desc": "Exclusive spaces reserved just for you"
+      },
+      "ambiance": {
+        "title": "Elegant Ambiance",
+        "desc": "Sophisticated design and premium furnishings"
+      },
+      "service": {
+        "title": "Premium Service",
+        "desc": "Dedicated staff attending to your every need"
+      },
+      "catering": {
+        "title": "Catering",
+        "desc": "Exquisite food and beverage options"
+      },
+      "technology": {
+        "title": "Entertainment",
+        "desc": "State-of-the-art sound and lighting systems"
+      },
+      "flexibility": {
+        "title": "Flexibility",
+        "desc": "Customizable packages for your needs"
+      },
+      "parking": {
+        "title": "Valet Parking",
+        "desc": "Premium parking facilities available"
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "desc": "Easy access and wheelchair-friendly facilities"
+      }
+    }
+  },
+  "pool": {
+    "title": "Pool Area",
+    "subtitle": "Luxurious swimming and recreational complex",
+    "description": "Enjoy crystal-clear waters and world-class pool facilities.",
+    "diveIn": "Ready to Dive In?",
+    "diveDescription": "Book your visit today and enjoy a refreshing experience at Star City's premium pool complex.",
+    "bookNow": "Book Now",
+    "learnMore": "Learn More",
+    "dailyPass": "Daily Pass",
+    "monthlyPass": "Monthly Pass",
+    "yearlyPass": "Yearly Pass",
+    "perPerson": "per person",
+    "pricing": {
+      "daily": "2,000F",
+      "monthly": "30,000F",
+      "yearly": "200,000F"
+    },
+    "features": {
+      "wifiAccess": {
+        "title": "WiFi Access",
+        "desc": "High-speed internet connectivity"
+      },
+      "parkingSpace": {
+        "title": "Parking",
+        "desc": "Ample parking space available"
+      },
+      "unlimitedAccess": {
+        "title": "Unlimited Access",
+        "desc": "Full access to all pool facilities"
+      },
+      "exclusiveEvents": {
+        "title": "Exclusive Events",
+        "desc": "Members-only events and gatherings"
+      },
+      "safetyEquipment": {
+        "title": "Safety",
+        "desc": "Professional lifeguards and safety equipment"
+      },
+      "seating": {
+        "title": "Seating",
+        "desc": "Comfortable lounging areas"
+      },
+      "facilities": {
+        "title": "Facilities",
+        "desc": "Changing rooms and shower facilities"
+      },
+      "catering": {
+        "title": "Catering",
+        "desc": "Food and beverage services available"
+      }
+    },
+    "wifiAccess": "WiFi Access",
+    "parkingSpace": "Available Parking Space",
+    "unlimitedPoolAccess": "Unlimited Pool Access",
+    "exclusiveEvents": "Exclusive Events",
+    "gallery": "Gallery",
+    "experienceFacilities": "Experience our luxurious pool facilities",
+    "ratesAndPackages": "Rates & Packages",
+    "flexiblePricing": "Flexible pricing for individuals and groups",
+    "features": {
+      "crystalPools": {
+        "title": "Crystal Clear Pools",
+        "desc": "Olympic-sized pools with premium water filtration"
+      },
+      "sunbathing": {
+        "title": "Sunbathing Area",
+        "desc": "Spacious deck with loungers and umbrellas"
+      },
+      "shades": {
+        "title": "Shade Structures",
+        "desc": "Comfortable cabanas and shaded areas"
+      },
+      "dining": {
+        "title": "Poolside Dining",
+        "desc": "Snacks, drinks, and light meals available"
+      },
+      "fitness": {
+        "title": "Fitness Area",
+        "desc": "Exercise equipment for active guests"
+      },
+      "staff": {
+        "title": "Professional Staff",
+        "desc": "Certified lifeguards and attendants on duty"
+      },
+      "events": {
+        "title": "Group Events",
+        "desc": "Perfect for birthday parties and gatherings"
+      },
+      "yearround": {
+        "title": "Open Year-Round",
+        "desc": "Climate-controlled pools available in winter"
+      }
+    }
+  },
+  "pointsPurchase": {
+    "title": "TO PLAY ANY OF OUR GAMES, YOU NEED TO PURCHASE POINTS",
+    "packages": {
+      "basic": "500 Points",
+      "standard": "1,000 Points",
+      "premium": "2,000 Points",
+      "vip": "3,500 Points",
+      "elite": "5,000 Points",
+      "ultimate": "10,000 Points"
+    },
+    "bonus": "Earn bonus points on larger packages!"
+  },
+  "buttons": {
+    "explore": "Explore",
+    "orderNow": "Order",
+    "orderOnWhatsApp": "Order on WhatsApp"
+  },
+  "gameCard": {
+    "pointsPerRound": "points/round"
+  },
+  "gallery": {
+    "title": "The Star City Experience"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "warning": "Warning",
+    "info": "Information",
+    "noData": "No data available",
+    "backHome": "Back to Home"
+  }
+}

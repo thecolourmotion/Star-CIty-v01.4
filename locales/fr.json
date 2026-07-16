@@ -1,0 +1,364 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "pizzaHot": "Pizza Chaud",
+    "gameCity": "Ville du Jeu",
+    "privateLounge": "Salon Privé",
+    "poolArea": "Zone Piscine",
+    "language": "Langue",
+    "ourGames": "Nos Jeux"
+  },
+    "home": {
+    "welcome": {
+      "title": "Bienvenue au Complexe Star City",
+      "description": "Découvrez les installations de divertissement premium, de restauration et de loisirs tout en un seul lieu emblématique"
+    },
+    "experiences": {
+      "title": "Nos Expériences",
+      "subtitle": "Explorez les quatre destinations uniques qui font de Star City votre pôle de divertissement ultime",
+      "discover": "Découvrez des moments inoubliables à chaque coin de notre complexe"
+    },
+    "cards": {
+      "pizzaHot": {
+        "title": "Pizza Hot",
+        "description": "Pizzas authentiques, délicieuse cuisine et expérience gastronomique"
+      },
+      "gameCity": {
+        "title": "Game City",
+        "description": "Zone de jeux d'arcade premier plan avec machines dernière génération et expériences VR"
+      },
+      "privateLounge": {
+        "title": "Salon Privé",
+        "description": "Salon privé premium exclusif pour les événements privés et la détente"
+      },
+      "poolArea": {
+        "title": "Zone Piscine",
+        "description": "Complexe de baignade et de loisirs de luxe"
+      }
+    },
+    "exploreButton": "Explorer"
+  },
+  "footer": {
+    "contact": "Contact",
+    "phone": "+237 653 122 650",
+    "email": "info@starcity.com",
+    "address": "Yaoundé, Cameroun",
+    "hours": "Horaires d'Ouverture",
+    "hoursData": {
+      "monThu": "Lundi - Jeudi: 10h - 23h",
+      "friSat": "Vendredi - Samedi: 10h - 1h",
+      "sun": "Dimanche: 10h - 23h"
+    },
+    "followUs": "Nous Suivre",
+    "copyright": "Complexe Star City. Tous droits réservés."
+  },
+  "pizzaHot": {
+    "title": "Pizza Hot",
+    "subtitle": "Pizzas italiennes authentiques et gastronomie fine",
+    "menu": "Notre Menu",
+    "categories": {
+      "pizza": "Pizza",
+      "pouletsPane": "Poulets Panés",
+      "burgers": "Burgers",
+      "shawarma": "Shawarma",
+      "combo": "Combos",
+      "supplements": "Suppléments",
+      "smoothies": "Smoothies",
+      "glaces": "Glaces",
+      "boissons": "Nos Boissons",
+      "vinWhisky": "Vin & Whisky"
+    },
+    "menuSubtitle": "Sur place • À emporter • Livraison",
+    "orderButton": "Commander",
+    "cart": "Panier",
+    "cartEmpty": "Votre panier est vide",
+    "subtotal": "Sous-total",
+    "tax": "Taxe",
+    "total": "Total",
+    "size": {
+      "small": "Petit",
+      "medium": "Moyen",
+      "large": "Grand",
+      "extraLarge": "Très Grand"
+    }
+  },
+  "gameCity": {
+    "title": "Game City",
+    "subtitle": "Zone de jeux d'arcade premier plan",
+    "games": "Nos Jeux",
+    "bookNow": "Réserver Maintenant",
+    "contactUs": "Nous Contacter",
+    "readyToPlay": "Prêt à Jouer ?",
+    "bookingDescription": "Réservez votre session de jeu ou votre événement de groupe dès aujourd'hui et vivez l'expérience de jeu ultime.",
+    "vrGames": "Jeux VR",
+    "vrDescription": "Plongez dans des expériences de réalité virtuelle immersives à Game City. Explorez, jouez et ressentez l'avenir du jeu vidéo.",
+    "other": "Autres",
+    "features": {
+      "latestGames": {
+        "title": "Derniers Jeux",
+        "desc": "Machines de jeu et consoles de pointe"
+      },
+      "tournaments": {
+        "title": "Tournois",
+        "desc": "Compétitions hebdomadaires avec des prix incroyables"
+      },
+      "multiplayer": {
+        "title": "Multijoueur",
+        "desc": "Regroupez-vous avec des amis pour des sessions de jeu épiques"
+      },
+      "vr": {
+        "title": "Expériences VR",
+        "desc": "Aventures de jeu en réalité virtuelle immersive"
+      },
+      "comfort": {
+        "title": "Zone de Confort",
+        "desc": "Sièges premium et rafraîchissements pendant que vous jouez"
+      },
+      "community": {
+        "title": "Communauté de Jeu",
+        "desc": "Rejoignez une communauté dynamique d'enthousiastes du jeu"
+      },
+      "leaderboard": {
+        "title": "Classements",
+        "desc": "Compétez et grimpez les classements"
+      },
+      "music": {
+        "title": "Divertissement",
+        "desc": "Performances DJ en direct et musicales"
+      }
+    },
+    "games": {
+      "dance": "Danse",
+      "jurassicPark": "Parc Jurassique",
+      "raizingStorm": "Tempête Déchaînée",
+      "pumpkinParty": "Fête des Citrouilles",
+      "carRace": "Course Automobile",
+      "jungleIQ": "QI Jungle",
+      "prizeClaw": "Pince à Prix",
+      "carGame": "Jeu de Voiture",
+      "crazyBasketball": "Basketball Dingue",
+      "rescue": "Sauvetage",
+      "airHockey": "Hockey sur Coussin",
+      "pandoraBox": "Boîte de Pandore"
+    },
+    "ourGames": "Nos Jeux",
+    "experienceAction": "Vivez l'Action",
+    "checkOutGamingSetup": "Découvrez notre incroyable configuration de jeu"
+  },
+  "lounge": {
+    "title": "Salon Privé",
+    "subtitle": "Espace sophistiqué pour les événements privés et la détente",
+    "description": "Notre salon exclusif est conçu pour ceux qui recherchent le confort premium et l'intimité.",
+    "planYourEvent": "Planifiez Votre Événement",
+    "eventDescription": "Contactez notre équipe d'événements pour discuter de vos exigences en matière d'événements privés et obtenir un devis personnalisé.",
+    "contactUs": "Nous Contacter",
+    "call": "Appeler: +237 653 122 650",
+    "gallery": "Galerie",
+    "elegantSpaces": "Découvrez nos espaces élégants",
+    "diveIn": "Prêt à Vous Divertir ?",
+    "diveDescription": "Réservez votre session de jeu ou votre événement de groupe dès aujourd'hui.",
+    "features": {
+      "seating": {
+        "title": "Sièges Luxueux",
+        "desc": "Mobilier premium et ambiance confortable"
+      },
+      "beverages": {
+        "title": "Boissons Premium",
+        "desc": "Sélection curatée de boissons et cocktails"
+      },
+      "sound": {
+        "title": "Système Sonore",
+        "desc": "Audio de haute qualité pour la musique et les événements"
+      },
+      "space": {
+        "title": "Espace Privé",
+        "desc": "Zones exclusives pour les rassemblements intimes"
+      },
+      "wifi": {
+        "title": "WiFi Rapide",
+        "desc": "Connectivité Internet haute vitesse"
+      },
+      "lighting": {
+        "title": "Éclairage Ambiant",
+        "desc": "Éclairage ambiant personnalisable"
+      },
+      "refreshments": {
+        "title": "Rafraîchissements",
+        "desc": "Café, collations et petites bouchées"
+      },
+      "valet": {
+        "title": "Service Voiturier",
+        "desc": "Assistance pratique à l'entrée et au stationnement"
+      }
+    },
+    "oldFeatures": {
+      "privacy": {
+        "title": "Intimité Totale",
+        "desc": "Espaces exclusifs réservés rien que pour vous"
+      },
+      "ambiance": {
+        "title": "Ambiance Élégante",
+        "desc": "Design sophistiqué et mobilier premium"
+      },
+      "service": {
+        "title": "Service Premium",
+        "desc": "Personnel dédié à votre service"
+      },
+      "catering": {
+        "title": "Restauration",
+        "desc": "Options de nourriture et boissons exquises"
+      },
+      "technology": {
+        "title": "Divertissement",
+        "desc": "Systèmes de son et d'éclairage de pointe"
+      },
+      "flexibility": {
+        "title": "Flexibilité",
+        "desc": "Forfaits personnalisables selon vos besoins"
+      },
+      "parking": {
+        "title": "Parking Voiturier",
+        "desc": "Installations de parking premium disponibles"
+      },
+      "accessibility": {
+        "title": "Accessibilité",
+        "desc": "Accès facile et installations accessibles aux fauteuils roulants"
+      }
+    }
+  },
+  "pool": {
+    "title": "Zone Piscine",
+    "subtitle": "Complexe de baignade et de loisirs de luxe",
+    "description": "Profitez d'eaux cristallines et d'installations de piscine de classe mondiale.",
+    "diveIn": "Prêt à Plonger ?",
+    "diveDescription": "Réservez votre visite dès aujourd'hui et profitez d'une expérience rafraîchissante au complexe de piscine premium de Star City.",
+    "bookNow": "Réserver Maintenant",
+    "learnMore": "En Savoir Plus",
+    "dailyPass": "Passe Journalière",
+    "monthlyPass": "Passe Mensuelle",
+    "yearlyPass": "Passe Annuelle",
+    "perPerson": "par personne",
+    "pricing": {
+      "daily": "2 000F",
+      "monthly": "30 000F",
+      "yearly": "200 000F"
+    },
+    "features": {
+      "wifiAccess": {
+        "title": "Accès WiFi",
+        "desc": "Connectivité Internet haut débit"
+      },
+      "parkingSpace": {
+        "title": "Parking",
+        "desc": "Espace de stationnement disponible"
+      },
+      "unlimitedAccess": {
+        "title": "Accès Illimité",
+        "desc": "Accès complet à toutes les installations de piscine"
+      },
+      "exclusiveEvents": {
+        "title": "Événements Exclusifs",
+        "desc": "Événements et rassemblements réservés aux membres"
+      },
+      "safetyEquipment": {
+        "title": "Sécurité",
+        "desc": "Maîtres-nageurs professionnels et équipements de sécurité"
+      },
+      "seating": {
+        "title": "Sièges",
+        "desc": "Zones de repos confortables"
+      },
+      "facilities": {
+        "title": "Installations",
+        "desc": "Vestiaires et douches"
+      },
+      "catering": {
+        "title": "Restauration",
+        "desc": "Services de nourriture et de boissons disponibles"
+      }
+    },
+    "wifiAccess": "Accès WiFi",
+    "parkingSpace": "Espace de Stationnement Disponible",
+    "unlimitedPoolAccess": "Accès Illimité à la Piscine",
+    "exclusiveEvents": "Événements Exclusifs",
+    "gallery": "Galerie",
+    "experienceFacilities": "Découvrez nos installations de piscine luxueuses",
+    "ratesAndPackages": "Tarifs & Forfaits",
+    "flexiblePricing": "Tarification flexible pour les individus et les groupes",
+    "features": {
+      "crystalPools": {
+        "title": "Piscines Cristallines",
+        "desc": "Piscines de taille olympique avec filtration d'eau haut de gamme"
+      },
+      "sunbathing": {
+        "title": "Zone de Bronzage",
+        "desc": "Terrasse spacieuse avec bains de soleil et parasols"
+      },
+      "shades": {
+        "title": "Structures Ombragées",
+        "desc": "Cabanas confortables et zones ombragées"
+      },
+      "dining": {
+        "title": "Restauration au Bord de la Piscine",
+        "desc": "Collations, boissons et repas légers disponibles"
+      },
+      "fitness": {
+        "title": "Zone Fitness",
+        "desc": "Équipement d'exercice pour les clients actifs"
+      },
+      "staff": {
+        "title": "Personnel Professionnel",
+        "desc": "Maîtres-nageurs certifiés et préposés en service"
+      },
+      "events": {
+        "title": "Événements de Groupe",
+        "desc": "Parfait pour les fêtes d'anniversaire et les rassemblements"
+      },
+      "yearround": {
+        "title": "Ouvert Toute l'Année",
+        "desc": "Piscines climatisées disponibles en hiver"
+      }
+    }
+  },
+  "pointsPurchase": {
+    "title": "POUR JOUER À L'UN DE NOS JEUX, VOUS DEVEZ ACHETER DES POINTS",
+    "packages": {
+      "basic": "500 Points",
+      "standard": "1 000 Points",
+      "premium": "2 000 Points",
+      "vip": "3 500 Points",
+      "elite": "5 000 Points",
+      "ultimate": "10 000 Points"
+    },
+    "bonus": "Gagnez des points bonus sur les forfaits plus importants!"
+  },
+  "gameCard": {
+    "pointsPerRound": "points/manche"
+  },
+  "buttons": {
+    "getPass": "Obtenir un Forfait",
+    "bookNow": "Réserver Maintenant",
+    "learnMore": "En Savoir Plus",
+    "contactUs": "Nous Contacter",
+    "orderNow": "Commander Maintenant",
+    "explore": "Explorer",
+    "close": "Fermer",
+    "submit": "Envoyer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier"
+  },
+  "gallery": {
+    "title": "L'Expérience Star City"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "warning": "Avertissement",
+    "info": "Information",
+    "noData": "Aucune donnée disponible",
+    "backHome": "Retour à l'accueil"
+  }
+}
